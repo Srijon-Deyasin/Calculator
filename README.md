@@ -1,2 +1,7 @@
 # Calculator
- This is a Calculator with simple functionalities using HTML, CSS, JS.
+ This is a Calculator with simple functionalities.
+ 
+ # Technology
+ - HTML
+ - CSS
+ - JS
